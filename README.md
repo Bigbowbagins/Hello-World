@@ -1,2 +1,3 @@
 # Hello-World
-My first step towards hopefully stepping out of my currently boring job?
+Hello,
+Now this is the first change i'm making to this, why? Well because I was told to do so. 
